@@ -1,2 +1,2 @@
 # ToDoApp
-Mobile Computing Final Coding ToDo App
+Mobile Computing ToDo App
